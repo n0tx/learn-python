@@ -10,7 +10,6 @@ tangkap error dan print "Input tidak valid!"
 Jika berhasil, print "Angka yang kamu masukkan: X"
 Jawaban versi 2
 - menjadikan fungsi agar mudah dipakai ulang dari error_handling_quiz.py sebelumnya
-- membuat 
 """
 
 # bungkus dalam sebuah fungsi
