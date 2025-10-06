@@ -11,7 +11,7 @@ def nilai_komentar(nilai: int) -> str:
     """Kembalikan komentar berdasarkan nilai"""
     if nilai >= 80:
         return "Bagus"
-    elif nilai >= 60:
+    if nilai >= 60:
         return "Cukup"
     else:
         return "Kurang"
