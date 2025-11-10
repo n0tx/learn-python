@@ -13,3 +13,6 @@ print("")
 
 print("cetak panjang list")
 print(len(buah))
+
+nums: float = [1,2,3]
+print("nums: ", nums)
